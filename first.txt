@@ -2,3 +2,4 @@ git練習
 変更を加えます
 うい
 na
+git add
