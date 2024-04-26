@@ -3,3 +3,4 @@ git練習
 うい
 na
 git add
+git difff
